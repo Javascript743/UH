@@ -1,0 +1,77 @@
+local uGames = "Open sourced-Roblox Game List"
+
+print("uGames - "..uGames)
+
+local games = {
+    prisonlife = {
+        Name = "Prison Life",
+        PlaceId = 155615604,
+        Description = "Live life as a prisoner and escape, or become a guard and defend the prison!"
+    },
+
+    MurderMys2 = {
+        Name = "Murder Mystery 2",
+        PlaceId  = 142823291,
+        Description = "Can you solve the Mystery and survive each round?\nINNOCENTS: Run and hide from the Murderer. Use your detective skills to expose the Murderer.\nSHERIFF: Work with the Innocents; you are the only one with a weapon who can take down the Murderer. \nMURDERER: Eliminate EVERYONE. Don't get shot by the sheriff.    "
+    },
+
+    entrypoint = {
+        Name = "Entry Point",
+        GameId = 324740177,
+        Description = "Join the criminal organization of Halcyon and enter a world of high profile operations. Take down banks, break into .>blacksites, and target multi-millionaires. Complete your missions stealthily, or put your full, explosive arsenal to use - >the choice is yours.\nEntry Point is a stealth/action FPS created by Freefall Softworks. Meet the team and join one of 15 missions, or jump into >the Shadow War PVP mode for intense tactical firefights. Halcyon is hiring - Let's get to work."
+    },
+
+    jailbreak = {
+        Name = "Jail Break",
+        PlaceId = 606849621,
+        Description = "Jailbreak is an award-winning game played over four billion times where you can orchestrate a robbery or stop the criminals before they get away! Team up with friends for even more fun and plan the ultimate raid or heist. What role will you play?"
+    },
+
+    baseplate_lol = {
+        Name = "Baseplate lol",
+        PlaceId = 15361767679,
+        Description = nil
+    },
+
+    sonics_epic_Xtreme_World = {
+        Name = "Sonic's Epic Xtreme World",
+        PlaceId = 16138148062,
+        Description = nil
+    },
+    fencing = {
+        Name = "Fencing",
+        PlaceId = 12109643,
+        Description = "You can only deal damage to people in the black areas. Step on the sparkling button to get fencing suit and to double your health or heal after matches. Tournaments are permitted. Have fun and be sure to stab yer friend. :D"
+    },
+    foundation = {
+        Name = "Foundation",
+        PlaceId = 14133411956,
+        Description = "Check out the Foundation, try out and buy new cosmetics!"
+    },
+    a_literal_baseplateN = {
+        Name = "a literal baseplate.",
+        PlaceId = 4483381587,
+        Description = "literally just a baseplate. have fun. socialize. hangout. idk. its a baseplate, but with your imagination it could be anything you want it to be.\njoin the group, or don't i guess; https://www.roblox.com/groups/12346926/baseplate#!/aboutplay with free admin here;\nhttps://www.roblox.com/games/4835383112/FREE-ADMIN-a-literal-baseplate\nor check out the all new, 'a literal empty void';\nhttps://www.roblox.com/games/4820662354/a-literal-empty-void"
+    },
+    WelcomeToBloxburg = {
+        Name = "Welcome To Bloxburg",
+        PlaceId = 185655149,
+        Description = "Out of bound"
+    },  
+    TheLongDrive = {
+Name = "The Long Drive",
+        PlaceId=15148247111,
+        Description = "Out of bound"
+    },
+    teleporter_boyangsic = {
+        Name = "teleporter!",
+        PlaceId = 16387597148,
+        Description = nil
+    },
+    sol_rng = {
+        Name = "Sol's rng",
+        PlaceId = 15532962292,
+        Description = "What is Sol's RNG?\n - Click the 'Roll' button to get 50+ Auras\n - Craft unique gauntlets with your auras!\n - You can also drink Potions to increase your luck\n\nNote: This game's codes are mostly server based. If the game is slow because of the ping, Use private server. (It's free)\nAlso recommend to play on high graphic\nPlease join our community for update announcements!"
+    }
+
+}
